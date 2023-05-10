@@ -1,0 +1,14 @@
+<app>
+<services>
+<servicename>app01</servicename>
+<serviceversion>v2</serviceversion>
+</services>
+<services>
+<servicename>app02</servicename>
+<serviceversion>v4</serviceversion>
+</services>
+<services>
+<servicename>app03</servicename>
+<serviceversion>v5</serviceversion>
+</services>
+</app>
